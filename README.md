@@ -16,4 +16,4 @@ Para o funcionamento dos código apenas o OpenCV deve ser instalado utilizando o
 
  Resultado do Image Stitching:
  
- ![picture](titchedImage.png)
+ ![picture](stitchedImage.png)
